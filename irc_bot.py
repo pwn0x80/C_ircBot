@@ -175,7 +175,6 @@ class IRC:
                     event = self.recv_queue.get(block=True, timeout=0.5)
                 except queue.Empty:
                     continue
-                logging.debug("Event %s", repr(event))  # todo remove thos
 
                 if event.type == IRC_EVENT_DISCONNECT:
                     break
