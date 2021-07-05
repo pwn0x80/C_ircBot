@@ -7,5 +7,5 @@ IRC chat bot written in python 3.
 ![image](https://user-images.githubusercontent.com/25504458/124384022-29b4b280-dced-11eb-970e-00b7fc0daea2.png)
 
 
-website - pwn0x80.github.io
+website - https://pwn0x80.github.io/
 
